@@ -1,4 +1,4 @@
-# awfayed1.github.io
+# MemoryPuzzleGame.github.io
 repo/
 │
 ├── index.html
