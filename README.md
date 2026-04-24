@@ -1,4 +1,4 @@
-# MemoryPuzzleGame.github.io
+# MemoryPuzzleGame
 repo/
 │
 ├── index.html
